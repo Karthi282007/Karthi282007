@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthi282007
+- 👋 Hi, I’m Karthi G my git hub id is Karthi282007
 - 👀 I’m interested in reading books 
 - 🌱 I’m currently learning flutter
 - 📫 Contact me though karthikarthi18772@gmail.com
